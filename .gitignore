@@ -8,3 +8,6 @@ pyvenv.cfg
 
 # cache files
 __pycache__
+
+# dabase
+data.sqlite
