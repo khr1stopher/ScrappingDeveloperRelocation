@@ -1,0 +1,10 @@
+# venv folders
+Scripts/
+Lib/
+Include/
+
+# pyvenv files
+pyvenv.cfg
+
+# cache files
+__pycache__
